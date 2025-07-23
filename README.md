@@ -31,7 +31,12 @@
 ### 🌟 Featured Projects
 - 📝 **Code Plagiarism Detection System**  
   *A PyTorch-based semantic similarity model for academic code submissions.*
-  [View Project](https://github.com/yash-shukla-2004)
+  [View Project](https://github.com/yash-shukla-2004/AI-Plagiarism-Detection-Tool)
+
+  - 🌐 **Django Blogs Website**  
+  *Designed and deployed a blog application enabling real-time updates, deletion of posts, and user profile management.*  
+  *Built with Django, MySQL, and AWS S3 buckets for secure storage and scalability, showcasing proficiency in full-stack development.*  
+  [View Project](https://github.com/yash-shukla-2004/Django-Blog-App)
 
 - 📱 **Covid-19 Geofencing Android App**  
   *Location tracking and alert system for contamination zones.*
@@ -40,7 +45,9 @@
 - 📊 **Real-time Dashboards with Power BI**  
   *Visualized KPIs and automated ETL pipelines for strategic insights.*
 
-- 🤖 **Hate Speech Detection using Multimodal Fusion** *(Under Review)*
+- 🤖 **Hate Speech Detection using Multimodal Fusion** *(Under Review)*  
+  *Proposed a multimodal deep learning model combining text and image data for robust hate speech detection.*
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/674621/71187833-8e47f780-226a-11ea-9550-59e8f6e6e29f.gif" width="200" />
