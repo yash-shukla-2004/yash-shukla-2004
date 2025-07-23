@@ -47,6 +47,7 @@
 
 - 🤖 **Hate Speech Detection using Multimodal Fusion** *(Under Review)*  
   *Proposed a multimodal deep learning model combining text and image data for robust hate speech detection.*
+  [View Project](https://github.com/yash-shukla-2004/MultiModal-HateSpeechDetection)
 
 
 <p align="center">
