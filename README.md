@@ -33,14 +33,14 @@
   *A PyTorch-based semantic similarity model for academic code submissions.*
   [View Project](https://github.com/yash-shukla-2004/AI-Plagiarism-Detection-Tool)
 
-  - 🌐 **Django Blogs Website**  
+- 🌐 **Django Blogs Website**  
   *Designed and deployed a blog application enabling real-time updates, deletion of posts, and user profile management.*  
   *Built with Django, MySQL, and AWS S3 buckets for secure storage and scalability, showcasing proficiency in full-stack development.*  
   [View Project](https://github.com/yash-shukla-2004/Django-Blog-App)
 
 - 📱 **Covid-19 Geofencing Android App**  
   *Location tracking and alert system for contamination zones.*
-  [View Project](https://github.com/yash-shukla-2004)
+  [View Project](https://github.com/yash-shukla-2004/Safety-First)
 
 - 📊 **Real-time Dashboards with Power BI**  
   *Visualized KPIs and automated ETL pipelines for strategic insights.*
