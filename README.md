@@ -35,13 +35,7 @@
 
 ---
 
-### 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-shukla-2004&show_icons=true&theme=radical&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yash-shukla-2004&theme=radical&hide_border=true" width="47%"/>
-</p>
 
----
 
 ### 🛸 Currently Working On
 - 🤖 **AI for code plagiarism detection** using **GNN + K-Means**
@@ -57,6 +51,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&vCenter=true&width=435&lines=Let's+build+something+awesome+💻;" alt="Typing SVG" />
-</p>
+
