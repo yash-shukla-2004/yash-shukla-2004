@@ -5,21 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+innovative+tech+solutions;AI+%7C+ML+%7C+Full-Stack+Development;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+innovative+tech+solutions;AI,+ML+and+Full-Stack+Development;Let’s+connect+and+collaborate!" alt="Typing Animation" />
 </p>
 
----
-
 <p align="center">
-  <a href="https://linkedin.com/in/yash-shukla-499860297">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yash25shukla@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/yash-shukla-2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/yash-shukla-499860297"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yash25shukla@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/yash-shukla-2004"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -50,12 +42,6 @@
 
 - 🤖 **Hate Speech Detection using Multimodal Fusion** *(Under Review)*
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/674621/71187833-8e47f780-226a-11ea-9550-59e8f6e6e29f.gif" width="200" />
 </p>
@@ -64,5 +50,3 @@
   <b>✨ Let’s build something amazing together! ✨</b>
 </p>
 
----
-```
